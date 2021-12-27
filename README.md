@@ -3,14 +3,14 @@ This is a lua FiveM job script and its wrote by Chillax1337!
 
 The following scripts are requirements:
 
-#c *Auto mode
+*Auto mode
 ESX Billing --> https://github.com/ddh3/fxserver-esx_billing
 
-#c *Player management
+*Player management
 
 ESX Society --> https://github.com/FXServer-ESX/fxserver-esx_society
 ESX Datastore --> https://github.com/FXServer-ESX/fxserver-esx_datastore
 
-#c *ESX Identity Support
+*ESX Identity Support
 
 ESX Identity --> https://github.com/ArkSeyonet/fxserver-esx_identity
